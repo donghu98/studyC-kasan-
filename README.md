@@ -1,5 +1,7 @@
 # study C Basic
 C학습 리포지토리
+![C로고](https://raw.githubusercontent.com/donghu98/studyC-kasan-/main/images/C.png)
+
 
 <br/>
 

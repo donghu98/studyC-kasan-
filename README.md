@@ -46,11 +46,13 @@ C학습 리포지토리
 
 #### 실행화면
 ![displaydata](https://github.com/donghu98/studyC-kasan-/blob/main/images/display_data.png?raw=true)
+
 기본 조회화면 
 
 <br\>
 
 ![editdata](https://github.com/donghu98/studyC-kasan-/blob/main/images/edit_data.png?raw=true)
+
 책정보 수정화면
 
 

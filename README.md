@@ -37,7 +37,11 @@ C학습 리포지토리
  - 소코반
  - 주소록 프로그램(MYSQL)
 
-##Day 4
+##Day 4 ~ 5
+- 실습예제
+ - 도서관 관리 프로그램(MYSQL) 
+   - MSCV(C)
+   - MySQL connector C 6.1
+   - MySQL Server 
 
-##Day 5
 
